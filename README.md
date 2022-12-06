@@ -20,3 +20,8 @@
   <li>利用form-group 來群組元件及說明</li>
   <li>radio button 用 radio-inline label 包裹</li>
 </ul>
+
+
+## 畫面
+![image](https://user-images.githubusercontent.com/66195059/205955817-82ae3482-1b4a-4ea8-9e72-a7ba2bb4e9cf.png)
+![image](https://user-images.githubusercontent.com/66195059/205955953-450f30e9-e75f-4cff-84fc-f100eb1bd204.png)
